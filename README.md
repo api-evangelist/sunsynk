@@ -76,12 +76,6 @@ Everything profiled for Sunsynk is published on APIs.io rather than in this repo
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-#### Overlays (1)
-
-OpenAPI overlays, including conversational phrasing for each operation.
-
-- [Sunsynk Overlay](https://apis.io/overlays/sunsynk/sunsynk-overlay/)
-
 #### Security (1)
 
 Authentication, trust centre, and vulnerability disclosure.
@@ -96,7 +90,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 0.4** — minimal · rubric 0.28.0 · scored 2026-11-17
+**Kin Score 1.3** — minimal · rubric 0.27.0 · scored 2026-11-17
 
 | Facet | Score |
 |---|---|
@@ -107,7 +101,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Developer ergonomics | 0.0 |
 | Access clarity | 0.0 |
 
-**Agent readiness 3.1** — human-only
+**Agent readiness 6.0** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -122,7 +116,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Rate Limit Signal | — |
 | Event Surface Described | — |
 | Agent Skills | — |
-| Well Known Catalog | — |
+| Well Known Catalog | yes |
 | Consent Identity | — |
 | Agent Card | — |
 | Dry Run Mode | — |
@@ -134,7 +128,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
 
-**Regulatory alignment 0.0** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/sunsynk/](https://apis.io/providers/sunsynk/).
 
